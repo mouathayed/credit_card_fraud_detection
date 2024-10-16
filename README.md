@@ -1,2 +1,1 @@
-# credit_card_fraud_detection
- Credit card fraud detection using machine learning.
+This repository contains a machine learning project focused on detecting fraudulent transactions using a dataset of credit card transactions made by European cardholders in 2023. The dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023), includes over 550,000 anonymized records, aiming to develop fraud detection algorithms. It features transactions identified with unique IDs, 28 anonymized attributes, transaction amounts, and a binary label for fraud. This project evaluates various classification algorithms based on accuracy, precision, and recall.
